@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Red\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.5_192299f1ff86d9089323629540f04d18e8e6624d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Red\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.5\c8098219abfe00b849cc43d461b1105fea3a2944\gdx-box2d-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.5_144da5ded9d55f1cd2208ae8082719470faefaf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Red\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\build\intermediates\pre-dexed\debug\box2dlights-1.4_226925a541b3021acc8351b64fc80e2f6269480b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f16291bfffb9f0db45a92a1c0597f2895c5c7485">
+        <dex dex="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\build\intermediates\pre-dexed\debug\core-1.0_8c271c6ba06d4654ee68678d71f2c384bd275930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Red\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\build\intermediates\pre-dexed\debug\gdx-1.9.5_12a10346dd7b63f17936562ec01736f966318d45.jar" />
+    </item>
+
+</items>

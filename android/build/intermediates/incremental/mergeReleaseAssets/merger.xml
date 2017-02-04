@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\assets"><file name="badlogic.jpg" path="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\assets\badlogic.jpg"/></source><source path="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\AppDev\AndroidStudioProjects\GAMES\PlanetDig\android\src\release\assets"/></dataSet></merger>
